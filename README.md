@@ -1,1 +1,3 @@
-# PSBS00015
+install.packages("remotes")
+library(remotes)
+install_github("MRCIEU/TwoSampleMR")
